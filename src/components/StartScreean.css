@@ -1,0 +1,45 @@
+.start h2 {
+    margin: 0;
+    font-size: 3.2em;
+    text-align: left;
+    margin-bottom: -20px;
+}
+
+.start h1 {
+    margin: 0;
+    font-size: 6.5em;
+    text-transform: uppercase;
+    
+}
+
+.start h1 span.wo {
+    z-index: 1;
+    margin-right: -7px;
+}
+
+.start h1 span.r {
+    z-index: 2;
+    padding: 0px 15px;
+    background-color: gold;
+    color: blue;
+    border-radius: 5px;
+    -webkit-box-shadow: -1px 8px 17px 4px rgba(0,0,0,0.71); 
+    box-shadow: -1px 8px 17px 4px rgba(0,0,0,0.71);
+    margin-left: -15px;
+
+}
+
+.start h1 span.d {
+    z-index: 3;
+    margin-left: -15px;
+}
+
+
+.start p {
+    margin-bottom: 2em;
+    color: #ffd700;
+}
+
+.start  button{
+    margin-top: 4rem;
+}
