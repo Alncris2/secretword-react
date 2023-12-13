@@ -21,10 +21,10 @@
     z-index: 2;
     padding: 0px 15px;
     background-color: #fffa00;
-    color: #7e00ff;
+    color: #9b15ff;
     border-radius: 5px;
-    -webkit-box-shadow: -1px 8px 17px 4px rgba(0,0,0,0.71); 
-    box-shadow: -1px 8px 17px 4px rgba(0,0,0,0.71);
+    -webkit-box-shadow: -1px 8px 17px 4px rgba(0,0,0,0.3); 
+    box-shadow: -1px 8px 17px 4px rgba(0,0,0,0.3);
     margin-left: -15px;
 
 }
