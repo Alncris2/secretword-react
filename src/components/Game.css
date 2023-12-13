@@ -28,8 +28,8 @@
     background-color: hsl(0, 100%, 100%);
     color: hsl(0, 0%, 0%);
     border-radius: 10px;
-
-
+    margin-left: 3px;
+    margin-right: 3px;
 }
 
 .letterContainer{
